@@ -1,0 +1,63 @@
+about:
+  description: Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+  license: MIT
+  homepage: https://get-hermes.ai/setup
+  head: e168b67
+  archived: false
+  latestVersion: exp-v0.52.264
+  collectedAt: 2026-08-31T05:35:58Z
+timeline:
+  created: 2026-03-30
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-26
+popularity:
+  star: 17906
+  watcher: 63
+  fork: 2487
+  release: 1416
+  contributor: 332
+  pullRequest: 2714
+  issue: 1902
+language:
+  Python: 20430938
+  JavaScript: 4883350
+  CSS: 517948
+  HTML: 244089
+  Shell: 83583
+  Nix: 13276
+  PowerShell: 11929
+  Dockerfile: 6346
+totalLine: 26191459
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 100
+    mergedPR: 148
+    openPR: 265
+    closedIssue: 60
+    openIssue: 118
+    commit: 191
+  last90d:
+    since: 2026-06-02
+    release: 100
+    mergedPR: 1371
+    openPR: 549
+    closedIssue: 660
+    openIssue: 221
+    commit: 2879
+  last180d:
+    since: 2026-03-04
+    release: 100
+    mergedPR: 2730
+    openPR: 549
+    closedIssue: 1641
+    openIssue: 261
+    commit: 5536
+  last360d:
+    since: 2025-09-05
+    release: 100
+    mergedPR: 2730
+    openPR: 549
+    closedIssue: 1641
+    openIssue: 261
+    commit: 5536
