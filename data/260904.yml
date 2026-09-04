@@ -7,18 +7,18 @@ about:
   head: e168b67
   archived: false
   latestVersion: exp-v0.52.264
-  collectedAt: 2026-09-04T19:35:52Z
+  collectedAt: 2026-09-04T20:54:47Z
 timeline:
   created: 2026-03-30
   lastCommit: 2026-08-26
   lastRelease: 2026-08-26
 popularity:
-  star: 18070
+  star: 18072
   watcher: 64
   fork: 2527
   release: 1416
   contributor: 332
-  pullRequest: 5476
+  pullRequest: 5477
   issue: 1918
 language:
   Python: 20430938
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-05
     release: 100
     mergedPR: 136
-    openPR: 253
+    openPR: 254
     closedIssue: 58
     openIssue: 118
     commit: 191
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-06
     release: 100
     mergedPR: 418
-    openPR: 541
+    openPR: 542
     closedIssue: 167
     openIssue: 214
     commit: 815
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-06
     release: 100
     mergedPR: 1285
-    openPR: 573
+    openPR: 574
     closedIssue: 608
     openIssue: 232
     commit: 2879
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-08
     release: 100
     mergedPR: 2730
-    openPR: 573
+    openPR: 574
     closedIssue: 1645
     openIssue: 273
     commit: 5536
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-09
     release: 100
     mergedPR: 2730
-    openPR: 573
+    openPR: 574
     closedIssue: 1645
     openIssue: 273
     commit: 5536
@@ -75,17 +75,105 @@ recent:
     since: 2024-09-14
     release: 100
     mergedPR: 2730
-    openPR: 573
+    openPR: 574
     closedIssue: 1645
     openIssue: 273
     commit: 7957
 total:
   release: 1416
   mergedPR: 2730
-  openPR: 573
+  openPR: 574
   closedIssue: 1645
   openIssue: 273
   commit: 7957
 ---
+path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
+collectedAt: 2026-09-04T20:55:02Z
+loc:
+  Python:
+    code: 403334
+    comments: 23958
+    blanks: 66613
+    files: 1472
+  JavaScript:
+    code: 83252
+    comments: 7502
+    blanks: 2467
+    files: 22
+  Css:
+    code: 6377
+    comments: 779
+    blanks: 169
+    files: 2
+  Html:
+    code: 3298
+    comments: 57
+    blanks: 46
+    files: 5
+  Sh:
+    code: 1222
+    comments: 237
+    blanks: 125
+    files: 5
+  Bash:
+    code: 370
+    comments: 102
+    blanks: 47
+    files: 1
+  Nix:
+    code: 352
+    comments: 0
+    blanks: 42
+    files: 3
+  PowerShell:
+    code: 188
+    comments: 88
+    blanks: 29
+    files: 2
+  Json:
+    code: 147
+    comments: 0
+    blanks: 0
+    files: 5
+  Yaml:
+    code: 142
+    comments: 266
+    blanks: 10
+    files: 3
+  Dockerfile:
+    code: 103
+    comments: 30
+    blanks: 22
+    files: 1
+  Toml:
+    code: 45
+    comments: 37
+    blanks: 12
+    files: 1
+  Svg:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 2
+  Ini:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 18488
+    blanks: 7820
+    files: 43
+  Text:
+    code: 0
+    comments: 36
+    blanks: 0
+    files: 2
+total:
+  code: 499944
+  comments: 51755
+  blanks: 77497
+  files: 1570
 ---
 
