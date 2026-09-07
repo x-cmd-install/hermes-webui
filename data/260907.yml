@@ -5,19 +5,19 @@ about:
   head: e168b67
   archived: false
   latestVersion: "exp-v0.52.264"
-  collectedAt: 2026-09-07T06:09:37Z
+  collectedAt: 2026-09-07T18:21:00Z
 timeline:
   created: 2026-03-30
   lastCommit: 2026-08-26
   lastRelease: 2026-08-26
 popularity:
-  star: 18129
+  star: 18146
   watcher: 65
-  fork: 2538
+  fork: 2543
   release: 1416
   contributor: 332
-  pullRequest: 5494
-  issue: 1922
+  pullRequest: 5495
+  issue: 1923
 language:
   Python: 20430938
   JavaScript: 4883350
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-08
     release: 95
     mergedPR: 110
-    openPR: 249
-    closedIssue: 49
+    openPR: 250
+    closedIssue: 50
     openIssue: 109
     commit: 85
   last60d:
     since: 2026-07-09
     release: 100
     mergedPR: 364
-    openPR: 550
-    closedIssue: 155
+    openPR: 551
+    closedIssue: 156
     openIssue: 214
     commit: 499
   last90d:
     since: 2026-06-09
     release: 100
     mergedPR: 1233
-    openPR: 589
-    closedIssue: 563
+    openPR: 590
+    closedIssue: 564
     openIssue: 233
     commit: 2563
   last180d:
     since: 2026-03-11
     release: 100
     mergedPR: 2730
-    openPR: 589
-    closedIssue: 1646
+    openPR: 590
+    closedIssue: 1647
     openIssue: 276
     commit: 5536
   last360d:
     since: 2025-09-12
     release: 100
     mergedPR: 2730
-    openPR: 589
-    closedIssue: 1646
+    openPR: 590
+    closedIssue: 1647
     openIssue: 276
     commit: 5536
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 2730
-    openPR: 589
-    closedIssue: 1646
+    openPR: 590
+    closedIssue: 1647
     openIssue: 276
     commit: 7957
 total:
   release: 1416
   mergedPR: 2730
-  openPR: 589
-  closedIssue: 1646
+  openPR: 590
+  closedIssue: 1647
   openIssue: 276
   commit: 7957
 ---
 path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
-collectedAt: 2026-09-07T06:10:18Z
+collectedAt: 2026-09-07T18:21:34Z
 loc:
   Python:
     code: 403334
@@ -177,7 +177,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:10:20+00:00
+  collectedAt: 2026-09-07T18:21:35+00:00
   platform:
     darwin/arm64:
       name:  null
