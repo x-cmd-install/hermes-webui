@@ -2,24 +2,24 @@ about:
   description: "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
   license: MIT
   homepage: https://get-hermes.ai/setup
-  head: 6e6893f
+  head: 1ab0000
   archived: false
-  latestVersion: "exp-v0.52.268"
-  collectedAt: 2026-09-08T03:27:40Z
+  latestVersion: "exp-v0.52.271"
+  collectedAt: 2026-09-08T06:11:41Z
 timeline:
   created: 2026-03-30
   lastCommit: 2026-09-08
   lastRelease: 2026-09-08
 popularity:
-  star: 18157
+  star: 18161
   watcher: 65
-  fork: 2547
-  release: 1420
-  contributor: 336
-  pullRequest: 5500
+  fork: 2548
+  release: 1423
+  contributor: 337
+  pullRequest: 5502
   issue: 1923
 language:
-  Python: 20451496
+  Python: 20472696
   JavaScript: 4885293
   CSS: 518062
   HTML: 243976
@@ -27,72 +27,72 @@ language:
   Nix: 13276
   PowerShell: 11929
   Dockerfile: 6346
-totalBytes: 26214789
+totalBytes: 26235989
 recent:
   last30d:
     since: 2026-08-09
-    release: 83
-    mergedPR: 111
-    openPR: 242
+    release: 86
+    mergedPR: 116
+    openPR: 239
     closedIssue: 52
     openIssue: 98
     commit: 0
   last60d:
     since: 2026-07-10
     release: 100
-    mergedPR: 364
-    openPR: 530
-    closedIssue: 154
-    openIssue: 207
+    mergedPR: 370
+    openPR: 526
+    closedIssue: 155
+    openIssue: 206
     commit: 0
   last90d:
     since: 2026-06-10
     release: 100
-    mergedPR: 1231
-    openPR: 579
-    closedIssue: 555
-    openIssue: 226
+    mergedPR: 1237
+    openPR: 575
+    closedIssue: 556
+    openIssue: 225
     commit: 0
   last180d:
     since: 2026-03-12
     release: 100
-    mergedPR: 2743
-    openPR: 579
-    closedIssue: 1652
-    openIssue: 271
+    mergedPR: 2749
+    openPR: 575
+    closedIssue: 1653
+    openIssue: 270
     commit: 0
   last360d:
     since: 2025-09-13
     release: 100
-    mergedPR: 2743
-    openPR: 579
-    closedIssue: 1652
-    openIssue: 271
+    mergedPR: 2749
+    openPR: 575
+    closedIssue: 1653
+    openIssue: 270
     commit: 0
   last720d:
     since: 2024-09-18
     release: 100
-    mergedPR: 2743
-    openPR: 579
-    closedIssue: 1652
-    openIssue: 271
-    commit: 7996
+    mergedPR: 2749
+    openPR: 575
+    closedIssue: 1653
+    openIssue: 270
+    commit: 8006
 total:
-  release: 1420
-  mergedPR: 2743
-  openPR: 579
-  closedIssue: 1652
-  openIssue: 271
-  commit: 7991
+  release: 1423
+  mergedPR: 2749
+  openPR: 575
+  closedIssue: 1653
+  openIssue: 270
+  commit: 8006
 ---
 path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
-collectedAt: 2026-09-08T03:28:11Z
+collectedAt: 2026-09-08T06:12:16Z
 loc:
   Python:
-    code: 403641
-    comments: 24077
-    blanks: 66694
-    files: 1475
+    code: 403980
+    comments: 24110
+    blanks: 66760
+    files: 1477
   JavaScript:
     code: 83262
     comments: 7518
@@ -160,8 +160,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18519
-    blanks: 7842
+    comments: 18521
+    blanks: 7844
     files: 43
   Text:
     code: 0
@@ -169,10 +169,10 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 500276
-  comments: 51931
-  blanks: 77600
-  files: 1573
+  code: 500615
+  comments: 51966
+  blanks: 77668
+  files: 1575
 ---
 
 ---
