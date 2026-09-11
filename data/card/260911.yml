@@ -7,7 +7,7 @@ about:
   latestVersion: "exp-v0.52.297"
   latestRelease: "v0.52.113"
   latestPrerelease: "exp-v0.52.297"
-  collectedAt: 2026-09-11T06:22:24Z
+  collectedAt: 2026-09-11T18:29:59Z
 timeline:
   created: 2026-03-30
   lastCommit: 2026-09-11
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 2026-09-11
 popularity:
-  star: 18242
-  watcher: 65
-  fork: 2569
+  star: 18260
+  watcher: 63
+  fork: 2568
   release: 1449
   contributor: 343
-  pullRequest: 5558
-  issue: 1935
+  pullRequest: 5562
+  issue: 1936
 language:
   Python: 20751052
   JavaScript: 4900601
@@ -37,60 +37,60 @@ recent:
     since: 2026-08-12
     release: 96
     mergedPR: 142
-    openPR: 221
+    openPR: 225
     closedIssue: 54
-    openIssue: 84
-    commit: 0
+    openIssue: 85
+    commit: 172
   last60d:
     since: 2026-07-13
     release: 100
     mergedPR: 362
-    openPR: 508
+    openPR: 512
     closedIssue: 144
-    openIssue: 201
-    commit: 0
+    openIssue: 202
+    commit: 594
   last90d:
     since: 2026-06-13
     release: 100
     mergedPR: 1183
-    openPR: 575
+    openPR: 579
     closedIssue: 515
-    openIssue: 223
-    commit: 0
+    openIssue: 224
+    commit: 2660
   last180d:
     since: 2026-03-15
     release: 100
     mergedPR: 2793
-    openPR: 575
+    openPR: 579
     closedIssue: 1665
-    openIssue: 270
-    commit: 0
+    openIssue: 271
+    commit: 5633
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 2793
-    openPR: 575
+    openPR: 579
     closedIssue: 1665
-    openIssue: 270
-    commit: 0
+    openIssue: 271
+    commit: 5633
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 2793
-    openPR: 575
+    openPR: 579
     closedIssue: 1665
-    openIssue: 270
+    openIssue: 271
     commit: 8108
 total:
   release: 1449
   mergedPR: 2793
-  openPR: 575
+  openPR: 579
   closedIssue: 1665
-  openIssue: 270
+  openIssue: 271
   commit: 8108
 ---
 path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
-collectedAt: 2026-09-11T06:23:01Z
+collectedAt: 2026-09-11T18:30:47Z
 loc:
   Python:
     code: 409986
