@@ -37,22 +37,22 @@ Total: **505,757** lines of code across **1527** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,242 · **Forks**: 2,569 · **Open issues**: 1,935 · **Contributors**: 343
+- **Stars**: 18,260 · **Forks**: 2,568 · **Open issues**: 1,936 · **Contributors**: 343
 
 ## Totals (cumulative)
 
-- **Releases**: 1449 · **Merged PRs**: 2793 · **Open PRs**: 575 · **Closed issues**: 1665 · **Open issues**: 270 · **Commits**: 8108
+- **Releases**: 1449 · **Merged PRs**: 2793 · **Open PRs**: 579 · **Closed issues**: 1665 · **Open issues**: 271 · **Commits**: 8108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 96 | 142 | 221 | 54 | 84 | 0 |
-| last60d | 2026-07-13 | 100 | 362 | 508 | 144 | 201 | 0 |
-| 90d | 2026-06-13 | 100 | 1183 | 575 | 515 | 223 | 0 |
-| last180d | 2026-03-15 | 100 | 2793 | 575 | 1665 | 270 | 0 |
-| 360d | 2025-09-16 | 100 | 2793 | 575 | 1665 | 270 | 0 |
-| last720d | 2024-09-21 | 100 | 2793 | 575 | 1665 | 270 | 8108 |
+| 30d | 2026-08-12 | 96 | 142 | 225 | 54 | 85 | 172 |
+| last60d | 2026-07-13 | 100 | 362 | 512 | 144 | 202 | 594 |
+| 90d | 2026-06-13 | 100 | 1183 | 579 | 515 | 224 | 2660 |
+| last180d | 2026-03-15 | 100 | 2793 | 579 | 1665 | 271 | 5633 |
+| 360d | 2025-09-16 | 100 | 2793 | 579 | 1665 | 271 | 5633 |
+| last720d | 2024-09-21 | 100 | 2793 | 579 | 1665 | 271 | 8108 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hermes-webui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:23:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:31:02Z._
