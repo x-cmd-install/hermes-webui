@@ -14,12 +14,12 @@ x install hermes-webui
 
 ## Code insight
 
-Total: **516,044** lines of code across **1540** files in the top 5 languages.
+Total: **516,768** lines of code across **1544** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 420,215 | 25,757 | 69,158 | 1506 |
-| JavaScript | 83,531 | 7,607 | 2,471 | 22 |
+| Python | 420,912 | 25,767 | 69,303 | 1510 |
+| JavaScript | 83,558 | 7,645 | 2,473 | 22 |
 | Css | 6,379 | 779 | 169 | 2 |
 | Html | 3,298 | 57 | 46 | 5 |
 | Sh | 1,222 | 237 | 125 | 5 |
@@ -32,27 +32,27 @@ Total: **516,044** lines of code across **1540** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `exp-v0.52.315` (2026-08-14)
-- **Last commit**: 2026-09-16
+- **Latest**: `exp-v0.52.318`
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 18,398 · **Forks**: 2,591 · **Open issues**: 1,961 · **Contributors**: 348
+- **Stars**: 18,425 · **Forks**: 2,595 · **Open issues**: 1,963 · **Contributors**: 350
 
 ## Totals (cumulative)
 
-- **Releases**: 1467 · **Merged PRs**: 2823 · **Open PRs**: 594 · **Closed issues**: 1680 · **Open issues**: 281 · **Commits**: 8148
+- **Releases**: 1470 · **Merged PRs**: 2831 · **Open PRs**: 588 · **Closed issues**: 1681 · **Open issues**: 282 · **Commits**: 8170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 78 | 119 | 190 | 47 | 79 | 138 |
-| last60d | 2026-07-19 | 100 | 314 | 467 | 125 | 190 | 459 |
-| 90d | 2026-06-19 | 100 | 1059 | 590 | 465 | 231 | 2302 |
-| last180d | 2026-03-21 | 100 | 2823 | 594 | 1680 | 281 | 5668 |
-| 360d | 2025-09-22 | 100 | 2823 | 594 | 1680 | 281 | 5668 |
-| last720d | 2024-09-27 | 100 | 2823 | 594 | 1680 | 281 | 8148 |
+| 30d | 2026-08-19 | 73 | 121 | 177 | 45 | 76 | 151 |
+| last60d | 2026-07-20 | 100 | 309 | 454 | 125 | 185 | 472 |
+| 90d | 2026-06-20 | 100 | 1048 | 584 | 453 | 232 | 2315 |
+| last180d | 2026-03-22 | 100 | 2831 | 588 | 1681 | 282 | 5681 |
+| 360d | 2025-09-23 | 100 | 2831 | 588 | 1681 | 282 | 5681 |
+| last720d | 2024-09-28 | 100 | 2831 | 588 | 1681 | 282 | 8170 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hermes-webui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:50:30Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:39:19Z._
