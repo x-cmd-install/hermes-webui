@@ -33,26 +33,26 @@ Total: **551,176** lines of code across **1631** files in the top 5 languages.
 ## Release
 
 - **Latest**: `exp-v0.52.379`
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-26
 
 ## Popularity
 
-- **Stars**: 18,576 · **Forks**: 2,635 · **Open issues**: 1,989 · **Contributors**: 361
+- **Stars**: 18,595 · **Forks**: 2,641 · **Open issues**: 1,995 · **Contributors**: 362
 
 ## Totals (cumulative)
 
-- **Releases**: 1531 · **Merged PRs**: 2948 · **Open PRs**: 601 · **Closed issues**: 1716 · **Open issues**: 273 · **Commits**: 8737
+- **Releases**: 1531 · **Merged PRs**: 2951 · **Open PRs**: 609 · **Closed issues**: 1719 · **Open issues**: 276 · **Commits**: 8765
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 100 | 193 | 150 | 55 | 47 | 431 |
-| last60d | 2026-07-27 | 100 | 388 | 396 | 145 | 156 | 806 |
-| 90d | 2026-06-27 | 100 | 953 | 594 | 361 | 220 | 2063 |
-| last180d | 2026-03-29 | 100 | 2948 | 601 | 1716 | 273 | 6078 |
-| 360d | 2025-09-30 | 100 | 2948 | 601 | 1716 | 273 | 6086 |
-| last720d | 2024-10-05 | 100 | 2948 | 601 | 1716 | 273 | 8737 |
+| 30d | 2026-08-27 | 100 | 193 | 157 | 55 | 49 | 453 |
+| last60d | 2026-07-28 | 100 | 388 | 397 | 147 | 157 | 828 |
+| 90d | 2026-06-28 | 100 | 916 | 594 | 343 | 222 | 2085 |
+| last180d | 2026-03-30 | 100 | 2951 | 609 | 1719 | 276 | 6100 |
+| 360d | 2025-10-01 | 100 | 2951 | 609 | 1719 | 276 | 6108 |
+| last720d | 2024-10-06 | 100 | 2951 | 609 | 1719 | 276 | 8765 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hermes-webui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:18:49Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:08:00Z._
