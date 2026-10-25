@@ -37,22 +37,22 @@ Total: **695,090** lines of code across **1905** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,147 · **Forks**: 2,772 · **Open issues**: 2,112 · **Contributors**: 406
+- **Stars**: 19,169 · **Forks**: 2,775 · **Open issues**: 2,117 · **Contributors**: 406
 
 ## Totals (cumulative)
 
-- **Releases**: 1709 · **Merged PRs**: 3314 · **Open PRs**: 659 · **Closed issues**: 1809 · **Open issues**: 303 · **Commits**: 11436
+- **Releases**: 1709 · **Merged PRs**: 3314 · **Open PRs**: 663 · **Closed issues**: 1809 · **Open issues**: 308 · **Commits**: 11436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 100 | 309 | 197 | 59 | 65 | 2007 |
-| last60d | 2026-08-25 | 100 | 533 | 300 | 131 | 99 | 2875 |
-| 90d | 2026-07-26 | 100 | 750 | 494 | 229 | 199 | 3526 |
-| last180d | 2026-04-27 | 100 | 2809 | 659 | 1454 | 295 | 8784 |
-| 360d | 2025-10-29 | 100 | 3314 | 659 | 1809 | 303 | 9867 |
-| last720d | 2024-11-03 | 100 | 3314 | 659 | 1809 | 303 | 11436 |
+| 30d | 2026-09-25 | 100 | 303 | 195 | 57 | 69 | 1768 |
+| last60d | 2026-08-26 | 100 | 530 | 303 | 129 | 102 | 2819 |
+| 90d | 2026-07-27 | 100 | 749 | 491 | 229 | 201 | 3445 |
+| last180d | 2026-04-28 | 100 | 2803 | 663 | 1442 | 300 | 8420 |
+| 360d | 2025-10-30 | 100 | 3314 | 663 | 1809 | 308 | 9867 |
+| last720d | 2024-11-04 | 100 | 3314 | 663 | 1809 | 308 | 11436 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for hermes-webui lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:52:17Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:57:55Z._
