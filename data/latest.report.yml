@@ -2,109 +2,109 @@ about:
   description: "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
   license: MIT
   homepage: https://get-hermes.ai/setup
-  head: a964d97
+  head: 3646a6c
   archived: false
-  latestVersion: "exp-v0.52.584"
+  latestVersion: "exp-v0.52.593"
   latestRelease: "v0.52.544"
-  latestPrerelease: "exp-v0.52.584"
-  collectedAt: 2026-10-30T07:14:38Z
+  latestPrerelease: "exp-v0.52.593"
+  collectedAt: 2026-10-31T07:05:21Z
 timeline:
   created: 2026-03-30
-  lastCommit: 2026-10-30
-  lastVersion: 2026-10-30
+  lastCommit: 2026-10-31
+  lastVersion: 2026-10-31
   lastRelease: 2026-10-25
-  lastPrerelease: 2026-10-30
+  lastPrerelease: 2026-10-31
 popularity:
-  star: 19279
+  star: 19304
   watcher: 59
-  fork: 2789
-  release: 1739
-  contributor: 413
-  pullRequest: 6426
-  issue: 2141
+  fork: 2796
+  release: 1748
+  contributor: 414
+  pullRequest: 6470
+  issue: 2149
 language:
-  Python: 31483932
-  JavaScript: 5950116
-  CSS: 553453
+  Python: 32033496
+  JavaScript: 5979187
+  CSS: 555923
   HTML: 252029
-  Shell: 116899
+  Shell: 120640
   PowerShell: 27538
   Nix: 13364
   Dockerfile: 6346
-totalBytes: 38403677
+totalBytes: 38988523
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 100
     mergedPR: 335
-    openPR: 149
-    closedIssue: 62
-    openIssue: 69
-    commit: 2147
+    openPR: 169
+    closedIssue: 58
+    openIssue: 72
+    commit: 2284
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 100
-    mergedPR: 584
-    openPR: 264
+    mergedPR: 604
+    openPR: 285
     closedIssue: 136
-    openIssue: 101
-    commit: 3208
+    openIssue: 104
+    commit: 3349
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 100
-    mergedPR: 783
-    openPR: 393
-    closedIssue: 228
-    openIssue: 189
-    commit: 3836
+    mergedPR: 800
+    openPR: 407
+    closedIssue: 232
+    openIssue: 192
+    commit: 3977
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 100
-    mergedPR: 2746
-    openPR: 572
-    closedIssue: 1361
-    openIssue: 302
-    commit: 8811
+    mergedPR: 2729
+    openPR: 593
+    closedIssue: 1347
+    openIssue: 304
+    commit: 8952
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
-    mergedPR: 3378
-    openPR: 572
-    closedIssue: 1829
-    openIssue: 312
-    commit: 10258
+    mergedPR: 3399
+    openPR: 593
+    closedIssue: 1834
+    openIssue: 315
+    commit: 10399
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 3378
-    openPR: 572
-    closedIssue: 1829
-    openIssue: 312
-    commit: 11849
+    mergedPR: 3399
+    openPR: 593
+    closedIssue: 1834
+    openIssue: 315
+    commit: 11978
 total:
-  release: 1739
-  mergedPR: 3378
-  openPR: 572
-  closedIssue: 1829
-  openIssue: 312
-  commit: 11849
+  release: 1748
+  mergedPR: 3399
+  openPR: 593
+  closedIssue: 1834
+  openIssue: 315
+  commit: 11978
 ---
 path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
-collectedAt: 2026-10-30T07:15:26Z
+collectedAt: 2026-10-31T07:06:31Z
 loc:
   Python:
-    code: 610119
-    comments: 39804
-    blanks: 94946
-    files: 1924
+    code: 620215
+    comments: 40417
+    blanks: 96755
+    files: 1938
   JavaScript:
-    code: 96384
-    comments: 12995
-    blanks: 2873
+    code: 96658
+    comments: 13075
+    blanks: 2875
     files: 26
   Css:
-    code: 6553
-    comments: 1004
+    code: 6569
+    comments: 1020
     blanks: 172
     files: 2
   Html:
@@ -113,13 +113,13 @@ loc:
     blanks: 46
     files: 6
   Sh:
-    code: 1373
-    comments: 264
-    blanks: 142
+    code: 1425
+    comments: 279
+    blanks: 143
     files: 6
   Bash:
-    code: 691
-    comments: 264
+    code: 707
+    comments: 267
     blanks: 67
     files: 1
   Nix:
@@ -164,8 +164,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 23751
-    blanks: 8988
+    comments: 23910
+    blanks: 9024
     files: 57
   Text:
     code: 0
@@ -173,10 +173,10 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 720838
-  comments: 78918
-  blanks: 107454
-  files: 2043
+  code: 731299
+  comments: 79809
+  blanks: 109303
+  files: 2057
 ---
 
 ---
