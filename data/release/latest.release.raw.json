@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/443505971",
-  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/443505971/assets",
-  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/443505971/assets{?name,label}",
-  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.667",
-  "id": 443505971,
+  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/446364109",
+  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/446364109/assets",
+  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/446364109/assets{?name,label}",
+  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.679",
+  "id": 446364109,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOR1LuPM4ab10z",
-  "tag_name": "v0.52.667",
+  "node_id": "RE_kwDOR1LuPM4amvnN",
+  "tag_name": "v0.52.679",
   "target_commitish": "master",
-  "name": "v0.52.667",
+  "name": "v0.52.679",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-12T21:02:27Z",
-  "updated_at": "2026-11-12T21:06:41Z",
-  "published_at": "2026-11-12T21:02:54Z",
+  "created_at": "2026-11-15T21:01:32Z",
+  "updated_at": "2026-11-15T21:02:52Z",
+  "published_at": "2026-11-15T21:01:53Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.667",
-  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.667",
-  "body": "## Known issues\n- **Context meter after a reload or model switch (#8975).** For some sessions on custom or self-hosted endpoints, the\n  context meter can show the default window (256K) instead of the model's real window after a page reload or a model\n  switch. It corrects itself on the next turn. Compression and chats are unaffected. Context-management plugins that\n  read WebUI's context window see the same default until then.\n- Credentials can pair with the wrong URL on Agent builds after hermes-agent #151775 when a providers: entry named like a built-in provider has its own URL and model.base_url differs (#8973, Form 3). Present in every release; fix in progress.\n\n\n## What's Changed\n* release: #8903 `TestConflictError` no longer fails in focused or partial test runs (#8903) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/8998\n* test: TestConflictError starts with no registered chat runs (order-dependent failure in focused runs) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/8903\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/exp-v0.52.666...v0.52.667\n",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.679",
+  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.679",
+  "body": "## Known issues\n- **Context meter after a reload or model switch (#8975).** For some sessions on custom or self-hosted endpoints, the\n  context meter can show the default window (256K) instead of the model's real window after a page reload or a model\n  switch. It corrects itself on the next turn. Compression and chats are unaffected. Context-management plugins that\n  read WebUI's context window see the same default until then.\n- Credentials can pair with the wrong URL on Agent builds after hermes-agent #151775 when a providers: entry named like a built-in provider has its own URL and model.base_url differs (#8973, Form 3). Present in every release; fix in progress.\n- **External memory providers on newer Agent builds (#9060).** With a Hermes Agent at or after `c9de60702c0d` (Agent `main` since Nov 13, canary builds since Nov 14, and the v0.23.2 release candidates), WebUI chats silently run without an external memory provider such as honcho or mem0. Agent v0.23.1 and earlier are unaffected. The fix is in exp-v0.52.686 and comes to stable with the next promotion.\n\n\n## What's Changed\n* Release exp-v0.52.679: New Chat shows why it could not create a session (#9027) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9043\n* fix(sessions): surface the reason New Chat could not create a session by @pxxD1998 in https://github.com/nesquena/hermes-webui/pull/9027\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.678...v0.52.679\n",
+  "mentions_count": 2
 }
