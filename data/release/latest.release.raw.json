@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/451924008",
-  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/451924008/assets",
-  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/451924008/assets{?name,label}",
-  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.702",
-  "id": 451924008,
+  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/453982470",
+  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/453982470/assets",
+  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/453982470/assets{?name,label}",
+  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.724",
+  "id": 453982470,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOR1LuPM4a79Ao",
-  "tag_name": "v0.52.702",
+  "node_id": "RE_kwDOR1LuPM4bDzkG",
+  "tag_name": "v0.52.724",
   "target_commitish": "master",
-  "name": "v0.52.702",
+  "name": "v0.52.724",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-19T21:00:49Z",
-  "updated_at": "2026-11-21T07:17:19Z",
-  "published_at": "2026-11-19T21:01:08Z",
+  "created_at": "2026-11-21T21:01:06Z",
+  "updated_at": "2026-11-21T21:03:13Z",
+  "published_at": "2026-11-21T21:01:26Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.702",
-  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.702",
-  "body": "## Known issues\n- **Context meter after a reload or model switch (#8975).** For some sessions on custom or self-hosted endpoints, the\n  context meter can show the default window (256K) instead of the model's real window after a page reload or a model\n  switch. It corrects itself on the next turn. Compression and chats are unaffected. Context-management plugins that\n  read WebUI's context window see the same default until then.\n- Credentials can pair with the wrong URL on Agent builds after hermes-agent #151775 when a providers: entry named like a built-in provider has its own URL and model.base_url differs (#8973, Form 3). Present in every release; not fixed yet.\n- **\"Always allow\" on approvals WebUI holds (#9128).** With an Agent connected, \"Always allow\" on an approval that WebUI holds lasts for the session but isn't saved, so a new session asks again. It never allows more than you chose. It isn't fixed yet; #9128 tracks it.\n- **Agent v0.23.3 (#9149, #9157).** Hermes Agent v0.23.3 stores conversations in a new way that this WebUI release doesn't fully support: a reused conversation can fail on its next message, and session titles, workspace folders and token counts stop syncing to the Agent's database. Don't update the Agent to v0.23.3 until a stable WebUI release lists this as fixed; Agent v0.23.2 and earlier are unaffected. Agent `main` and canary builds since Nov 17 (version 0.23.2+N) have the same issue. Fixes are in exp-v0.52.713, exp-v0.52.715 and exp-v0.52.718; the last fix (#9150) is shipping to the experimental channel now.\n- On Hermes Agent v0.23.3 or newer, deleting a session that has gateway run history fails with \"This conversation's runtime history cannot be cleared right now. Restart the agent and try again.\" Restarting doesn't fix it. Agent main since Nov 17 and canary builds since Nov 18 (versions like 0.23.2+canary.20261118…) are also affected; Agent v0.23.2 and earlier are unaffected. The fix (#9218) is in the experimental channel now and comes to stable in a later release.\n\n\n## What's Changed\n* Release exp-v0.52.702: async completion ACK retry keeps a finished delegation from being delivered twice (#9124) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9135\n* fix(delegation): retry the durable completion ACK on transient ledger errors by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9124\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.701...v0.52.702\n\n\n",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.724",
+  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.724",
+  "body": "## Known issues\n- **Context meter after a reload or model switch (#8975).** For some sessions on custom or self-hosted endpoints, the\n  context meter can show the default window (256K) instead of the model's real window after a page reload or a model\n  switch. It corrects itself on the next turn. Compression and chats are unaffected. Context-management plugins that\n  read WebUI's context window see the same default until then.\n- Credentials can pair with the wrong URL on Agent builds after hermes-agent #151775 when a providers: entry named like a built-in provider has its own URL and model.base_url differs (#8973, Form 3). Present in every release; not fixed yet.\n- **\"Always allow\" on approvals WebUI holds (#9128).** With an Agent connected, \"Always allow\" on an approval that WebUI holds lasts for the session but isn't saved, so a new session asks again. It never allows more than you chose. It isn't fixed yet; #9128 tracks it.\n- **Deleting sessions on Agent v0.23.3 (#9213).** On Hermes Agent v0.23.3 or newer, deleting a session that has gateway run history fails with \"This conversation's runtime history cannot be cleared right now. Restart the agent and try again.\" Restarting doesn't fix it. Agent main since Nov 17 and canary builds since Nov 18 (versions like 0.23.2+canary.20261118…) are also affected; Agent v0.23.2 and earlier are unaffected. The fix (#9218) is in the experimental channel now and comes to stable in a later release.\n\n\n## What's Changed\n* Release exp-v0.52.724: the text-to-speech throttle can no longer be dodged with a forged forwarded header (#8637) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9207\n* fix(tts): key the TTS rate limiter on the same client identity as the login limiter (#8610) by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/8637\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.723...v0.52.724",
+  "mentions_count": 2
 }
