@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/453982470",
-  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/453982470/assets",
-  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/453982470/assets{?name,label}",
-  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.724",
-  "id": 453982470,
+  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/455183892",
+  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/455183892/assets",
+  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/455183892/assets{?name,label}",
+  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.732",
+  "id": 455183892,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOR1LuPM4bDzkG",
-  "tag_name": "v0.52.724",
+  "node_id": "RE_kwDOR1LuPM4bIY4U",
+  "tag_name": "v0.52.732",
   "target_commitish": "master",
-  "name": "v0.52.724",
+  "name": "v0.52.732",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-21T21:01:06Z",
-  "updated_at": "2026-11-21T21:03:13Z",
-  "published_at": "2026-11-21T21:01:26Z",
+  "created_at": "2026-11-23T09:01:45Z",
+  "updated_at": "2026-11-23T09:04:16Z",
+  "published_at": "2026-11-23T09:02:08Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.724",
-  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.724",
-  "body": "## Known issues\n- **Context meter after a reload or model switch (#8975).** For some sessions on custom or self-hosted endpoints, the\n  context meter can show the default window (256K) instead of the model's real window after a page reload or a model\n  switch. It corrects itself on the next turn. Compression and chats are unaffected. Context-management plugins that\n  read WebUI's context window see the same default until then.\n- Credentials can pair with the wrong URL on Agent builds after hermes-agent #151775 when a providers: entry named like a built-in provider has its own URL and model.base_url differs (#8973, Form 3). Present in every release; not fixed yet.\n- **\"Always allow\" on approvals WebUI holds (#9128).** With an Agent connected, \"Always allow\" on an approval that WebUI holds lasts for the session but isn't saved, so a new session asks again. It never allows more than you chose. It isn't fixed yet; #9128 tracks it.\n- **Deleting sessions on Agent v0.23.3 (#9213).** On Hermes Agent v0.23.3 or newer, deleting a session that has gateway run history fails with \"This conversation's runtime history cannot be cleared right now. Restart the agent and try again.\" Restarting doesn't fix it. Agent main since Nov 17 and canary builds since Nov 18 (versions like 0.23.2+canary.20261118…) are also affected; Agent v0.23.2 and earlier are unaffected. The fix (#9218) is in the experimental channel now and comes to stable in a later release.\n\n\n## What's Changed\n* Release exp-v0.52.724: the text-to-speech throttle can no longer be dodged with a forged forwarded header (#8637) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9207\n* fix(tts): key the TTS rate limiter on the same client identity as the login limiter (#8610) by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/8637\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.723...v0.52.724",
+  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.732",
+  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.732",
+  "body": "## Known issues\n- **Context meter after a reload or model switch (#8975).** For some sessions on custom or self-hosted endpoints, the\n  context meter can show the default window (256K) instead of the model's real window after a page reload or a model\n  switch. It corrects itself on the next turn. Compression and chats are unaffected. Context-management plugins that\n  read WebUI's context window see the same default until then.\n- Credentials can pair with the wrong URL on Agent builds after hermes-agent #151775 when a providers: entry named like a built-in provider has its own URL and model.base_url differs (#8973, Form 3). Present in every release; not fixed yet.\n- **\"Always allow\" on approvals WebUI holds (#9128).** With an Agent connected, \"Always allow\" on an approval that WebUI holds lasts for the session but isn't saved, so a new session asks again. It never allows more than you chose. It isn't fixed yet; #9128 tracks it.\n\n\n## What's Changed\n* docs(changelog): stamp v0.52.724 by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9264\n* Release exp-v0.52.732: German reads as one consistent translation (#8787) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9265\n* i18n(de): unify register and glossary, restore meaning lost against en by @goetterbote2342 in https://github.com/nesquena/hermes-webui/pull/8787\n\n## New Contributors\n* @goetterbote2342 made their first contribution in https://github.com/nesquena/hermes-webui/pull/8787\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.731...v0.52.732",
   "mentions_count": 2
 }
