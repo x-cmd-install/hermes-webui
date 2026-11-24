@@ -1,0 +1,182 @@
+about:
+  description: "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+  license: MIT
+  homepage: https://get-hermes.ai/setup
+  head: d49955d
+  archived: false
+  latestVersion: "exp-v0.52.745"
+  latestRelease: "v0.52.732"
+  latestPrerelease: "exp-v0.52.745"
+  collectedAt: 2026-11-24T10:54:34Z
+timeline:
+  created: 2026-03-30
+  lastCommit: 2026-11-23
+  lastVersion: 2026-11-23
+  lastRelease: 2026-11-23
+  lastPrerelease: 2026-11-23
+popularity:
+  star: 19620
+  watcher: 60
+  fork: 2862
+  release: 1910
+  contributor: 434
+  pullRequest: 6915
+  issue: 2367
+language:
+  Python: 36568525
+  JavaScript: 6255638
+  CSS: 568038
+  HTML: 256128
+  Shell: 120658
+  PowerShell: 27538
+  Nix: 13364
+  Dockerfile: 6346
+totalBytes: 43816235
+recent:
+  last30d:
+    since: 2026-10-25
+    release: 100
+    mergedPR: 372
+    openPR: 156
+    closedIssue: 96
+    openIssue: 150
+    commit: 1534
+  last60d:
+    since: 2026-09-25
+    release: 100
+    mergedPR: 714
+    openPR: 286
+    closedIssue: 170
+    openIssue: 205
+    commit: 4065
+  last90d:
+    since: 2026-08-26
+    release: 100
+    mergedPR: 946
+    openPR: 359
+    closedIssue: 245
+    openIssue: 235
+    commit: 5065
+  last180d:
+    since: 2026-05-28
+    release: 100
+    mergedPR: 2465
+    openPR: 606
+    closedIssue: 1035
+    openIssue: 401
+    commit: 9302
+  last360d:
+    since: 2025-11-29
+    release: 100
+    mergedPR: 3733
+    openPR: 606
+    closedIssue: 1937
+    openIssue: 430
+    commit: 12108
+  last720d:
+    since: 2024-12-04
+    release: 100
+    mergedPR: 3733
+    openPR: 606
+    closedIssue: 1937
+    openIssue: 430
+    commit: 13558
+total:
+  release: 1910
+  mergedPR: 3733
+  openPR: 606
+  closedIssue: 1937
+  openIssue: 430
+  commit: 13558
+---
+path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
+collectedAt: 2026-11-24T10:55:32Z
+loc:
+  Python:
+    code: 701925
+    comments: 45289
+    blanks: 111017
+    files: 2158
+  JavaScript:
+    code: 101203
+    comments: 14206
+    blanks: 2979
+    files: 28
+  Css:
+    code: 6664
+    comments: 1067
+    blanks: 172
+    files: 2
+  Html:
+    code: 3422
+    comments: 53
+    blanks: 46
+    files: 6
+  Sh:
+    code: 1426
+    comments: 279
+    blanks: 143
+    files: 6
+  Bash:
+    code: 707
+    comments: 267
+    blanks: 67
+    files: 1
+  Nix:
+    code: 353
+    comments: 0
+    blanks: 42
+    files: 3
+  PowerShell:
+    code: 303
+    comments: 223
+    blanks: 38
+    files: 2
+  Json:
+    code: 160
+    comments: 0
+    blanks: 0
+    files: 6
+  Yaml:
+    code: 142
+    comments: 266
+    blanks: 10
+    files: 3
+  Dockerfile:
+    code: 103
+    comments: 30
+    blanks: 22
+    files: 1
+  Toml:
+    code: 45
+    comments: 37
+    blanks: 12
+    files: 1
+  Svg:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 2
+  Ini:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 25087
+    blanks: 9411
+    files: 60
+  Text:
+    code: 0
+    comments: 41
+    blanks: 0
+    files: 2
+total:
+  code: 817747
+  comments: 87031
+  blanks: 124056
+  files: 2282
+---
+
+---
