@@ -2,28 +2,28 @@ about:
   description: "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
   license: MIT
   homepage: https://get-hermes.ai/setup
-  head: c92493b
+  head: 10a2c59
   archived: false
-  latestVersion: "v0.52.735"
-  latestRelease: "v0.52.735"
-  latestPrerelease: "exp-v0.52.756"
-  collectedAt: 2026-11-27T10:33:52Z
+  latestVersion: "v0.52.741"
+  latestRelease: "v0.52.741"
+  latestPrerelease: "exp-v0.52.761"
+  collectedAt: 2026-11-28T09:29:07Z
 timeline:
   created: 2026-03-30
-  lastCommit: 2026-11-26
-  lastVersion: 2026-11-26
-  lastRelease: 2026-11-26
-  lastPrerelease: 2026-11-26
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 2026-11-28
 popularity:
-  star: 19649
+  star: 19661
   watcher: 62
   fork: 2871
-  release: 1922
+  release: 1928
   contributor: 434
-  pullRequest: 6952
-  issue: 2387
+  pullRequest: 6967
+  issue: 2390
 language:
-  Python: 36837083
+  Python: 36863920
   JavaScript: 6258303
   CSS: 570002
   HTML: 256128
@@ -31,72 +31,72 @@ language:
   PowerShell: 27538
   Nix: 13452
   Dockerfile: 6346
-totalBytes: 44089510
+totalBytes: 44116347
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 100
-    mergedPR: 374
-    openPR: 157
-    closedIssue: 96
-    openIssue: 157
-    commit: 1637
+    mergedPR: 368
+    openPR: 159
+    closedIssue: 93
+    openIssue: 159
+    commit: 1671
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 100
-    mergedPR: 724
-    openPR: 282
-    closedIssue: 168
-    openIssue: 220
-    commit: 4168
+    mergedPR: 723
+    openPR: 278
+    closedIssue: 167
+    openIssue: 217
+    commit: 4202
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 100
-    mergedPR: 964
-    openPR: 359
+    mergedPR: 973
+    openPR: 361
     closedIssue: 243
-    openIssue: 245
-    commit: 5168
+    openIssue: 246
+    commit: 5202
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 100
-    mergedPR: 2431
-    openPR: 600
-    closedIssue: 987
-    openIssue: 415
-    commit: 9406
+    mergedPR: 2429
+    openPR: 604
+    closedIssue: 970
+    openIssue: 417
+    commit: 9440
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 3758
-    openPR: 600
-    closedIssue: 1941
-    openIssue: 446
-    commit: 12212
+    mergedPR: 3769
+    openPR: 604
+    closedIssue: 1942
+    openIssue: 448
+    commit: 12246
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 3758
-    openPR: 600
-    closedIssue: 1941
-    openIssue: 446
-    commit: 13657
+    mergedPR: 3769
+    openPR: 604
+    closedIssue: 1942
+    openIssue: 448
+    commit: 13691
 total:
-  release: 1922
-  mergedPR: 3758
-  openPR: 600
-  closedIssue: 1941
-  openIssue: 446
-  commit: 13657
+  release: 1928
+  mergedPR: 3769
+  openPR: 604
+  closedIssue: 1942
+  openIssue: 448
+  commit: 13691
 ---
 path: /home/runner/.x-repo/github.com/nesquena/hermes-webui
-collectedAt: 2026-11-27T10:35:11Z
+collectedAt: 2026-11-28T09:30:07Z
 loc:
   Python:
-    code: 706614
-    comments: 45690
-    blanks: 111945
-    files: 2170
+    code: 707108
+    comments: 45734
+    blanks: 112058
+    files: 2171
   JavaScript:
     code: 101231
     comments: 14206
@@ -164,8 +164,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 25158
-    blanks: 9440
+    comments: 25175
+    blanks: 9454
     files: 61
   Text:
     code: 0
@@ -173,11 +173,11 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 822495
-  comments: 87513
-  blanks: 125013
-  files: 2295
+  code: 822989
+  comments: 87574
+  blanks: 125140
+  files: 2296
 ---
 
 ---
-{"id":459899115,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR1LuPM4baYDr","tag_name":"v0.52.735","target_commitish":"master","name":"v0.52.735","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T21:01:34Z","updated_at":"2026-11-26T21:01:55Z","published_at":"2026-11-26T21:01:55Z","assets":[],"body":"## What's Changed\n* Release exp-v0.52.733: streaming: retry a failed compressor rebind on the next turn (#9215) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9270\n* fix(streaming): harden the cached-agent compressor rebind (#9150 follow-up) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9215\n* Release exp-v0.52.734: profiles: refuse memory/skill writes made for a profile that is no longer active (#9216) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9274\n* fix(profiles): refuse Memory save and skill toggle writes made from another profile's data by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9216\n* docs(changelog): stamp v0.52.727 by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9277\n* docs(changelog): stamp v0.52.731 by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9288\n* Release exp-v0.52.735: ledger retry-timer test waits for the fired timer (#9287) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9291\n* test: wait for the fired ledger retry timer to exit before counting live timers by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9287\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.732...v0.52.735","mentions_count":1}
+{"id":461429532,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOR1LuPM4bgNsc","tag_name":"v0.52.741","target_commitish":"master","name":"v0.52.741","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-28T09:04:03Z","updated_at":"2026-11-28T09:04:20Z","published_at":"2026-11-28T09:04:20Z","assets":[],"body":"## What's Changed\n* Release exp-v0.52.736: provider entries with their own endpoint keep their key to that endpoint in the context lookup (#9262) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9296\n* fix(context-lookup): a provider record with its own endpoint keeps its key on that endpoint by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9262\n* Release exp-v0.52.737: share page shows hidden-text messages as plain text (#9214) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9297\n* fix(share): show a message as plain text when the share page would hide part of it by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9214\n* Release exp-v0.52.738: switched-off provider entries no longer route the chat's model (#9248) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9298\n* fix(config): skip switched-off records in the providers.<slug>.models scan by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9248\n* Release exp-v0.52.739: keep the reply when the Agent prunes an old tool result (#9286) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9299\n* fix(streaming): keep the reply when the Agent's cold-cache prune shortens an old tool result by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9286\n* Release exp-v0.52.740: fix(share): closing the already-shared dialog no longer refreshes the snapshot (#9260) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9309\n* fix(share): closing the already-shared dialog no longer refreshes the snapshot (#9259) by @JayPokale in https://github.com/nesquena/hermes-webui/pull/9260\n* Release exp-v0.52.741: Release: #9206 #9169 #9240 #9185 #9254 #9234 #9302 (git counts, storage-full 507, memory claim refusal, docs/tests) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9310\n* fix(server): report storage full (ENOSPC/EDQUOT) instead of a generic 500 (#9167) by @angelusbr in https://github.com/nesquena/hermes-webui/pull/9169\n* docs(sessions): document the middle-click row gesture that opens a session deep link in a new tab by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9185\n* fix(git): count diff lines that start with --- or +++ inside hunks (#9205) by @nurlanmnn in https://github.com/nesquena/hermes-webui/pull/9206\n* test(profiles): pin that the secret-scope cache follows the setter by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9234\n* fix(memory): record the Agent's own claim refusal for the construction (#9061) by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9240\n* test(context-length): restore post-544 behavioural cases dropped by #8819 by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9254\n* docs: weekly contributor tally refresh (20261123) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9302\n\n## New Contributors\n* @JayPokale made their first contribution in https://github.com/nesquena/hermes-webui/pull/9260\n* @nurlanmnn made their first contribution in https://github.com/nesquena/hermes-webui/pull/9206\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.735...v0.52.741","mentions_count":5}

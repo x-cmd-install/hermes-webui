@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/459899115",
-  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/459899115/assets",
-  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/459899115/assets{?name,label}",
-  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.735",
-  "id": 459899115,
+  "url": "https://api.github.com/repos/nesquena/hermes-webui/releases/461429532",
+  "assets_url": "https://api.github.com/repos/nesquena/hermes-webui/releases/461429532/assets",
+  "upload_url": "https://uploads.github.com/repos/nesquena/hermes-webui/releases/461429532/assets{?name,label}",
+  "html_url": "https://github.com/nesquena/hermes-webui/releases/tag/v0.52.741",
+  "id": 461429532,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOR1LuPM4baYDr",
-  "tag_name": "v0.52.735",
+  "node_id": "RE_kwDOR1LuPM4bgNsc",
+  "tag_name": "v0.52.741",
   "target_commitish": "master",
-  "name": "v0.52.735",
+  "name": "v0.52.741",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-26T21:01:34Z",
-  "updated_at": "2026-11-26T21:01:55Z",
-  "published_at": "2026-11-26T21:01:55Z",
+  "created_at": "2026-11-28T09:04:03Z",
+  "updated_at": "2026-11-28T09:04:20Z",
+  "published_at": "2026-11-28T09:04:20Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.735",
-  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.735",
-  "body": "## What's Changed\n* Release exp-v0.52.733: streaming: retry a failed compressor rebind on the next turn (#9215) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9270\n* fix(streaming): harden the cached-agent compressor rebind (#9150 follow-up) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9215\n* Release exp-v0.52.734: profiles: refuse memory/skill writes made for a profile that is no longer active (#9216) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9274\n* fix(profiles): refuse Memory save and skill toggle writes made from another profile's data by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9216\n* docs(changelog): stamp v0.52.727 by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9277\n* docs(changelog): stamp v0.52.731 by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9288\n* Release exp-v0.52.735: ledger retry-timer test waits for the fired timer (#9287) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9291\n* test: wait for the fired ledger retry timer to exit before counting live timers by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9287\n\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.732...v0.52.735",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/nesquena/hermes-webui/tarball/v0.52.741",
+  "zipball_url": "https://api.github.com/repos/nesquena/hermes-webui/zipball/v0.52.741",
+  "body": "## What's Changed\n* Release exp-v0.52.736: provider entries with their own endpoint keep their key to that endpoint in the context lookup (#9262) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9296\n* fix(context-lookup): a provider record with its own endpoint keeps its key on that endpoint by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9262\n* Release exp-v0.52.737: share page shows hidden-text messages as plain text (#9214) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9297\n* fix(share): show a message as plain text when the share page would hide part of it by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9214\n* Release exp-v0.52.738: switched-off provider entries no longer route the chat's model (#9248) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9298\n* fix(config): skip switched-off records in the providers.<slug>.models scan by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9248\n* Release exp-v0.52.739: keep the reply when the Agent prunes an old tool result (#9286) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9299\n* fix(streaming): keep the reply when the Agent's cold-cache prune shortens an old tool result by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9286\n* Release exp-v0.52.740: fix(share): closing the already-shared dialog no longer refreshes the snapshot (#9260) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9309\n* fix(share): closing the already-shared dialog no longer refreshes the snapshot (#9259) by @JayPokale in https://github.com/nesquena/hermes-webui/pull/9260\n* Release exp-v0.52.741: Release: #9206 #9169 #9240 #9185 #9254 #9234 #9302 (git counts, storage-full 507, memory claim refusal, docs/tests) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9310\n* fix(server): report storage full (ENOSPC/EDQUOT) instead of a generic 500 (#9167) by @angelusbr in https://github.com/nesquena/hermes-webui/pull/9169\n* docs(sessions): document the middle-click row gesture that opens a session deep link in a new tab by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9185\n* fix(git): count diff lines that start with --- or +++ inside hunks (#9205) by @nurlanmnn in https://github.com/nesquena/hermes-webui/pull/9206\n* test(profiles): pin that the secret-scope cache follows the setter by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9234\n* fix(memory): record the Agent's own claim refusal for the construction (#9061) by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9240\n* test(context-length): restore post-544 behavioural cases dropped by #8819 by @chhxbchhxb in https://github.com/nesquena/hermes-webui/pull/9254\n* docs: weekly contributor tally refresh (20261123) by @nesquena-hermes in https://github.com/nesquena/hermes-webui/pull/9302\n\n## New Contributors\n* @JayPokale made their first contribution in https://github.com/nesquena/hermes-webui/pull/9260\n* @nurlanmnn made their first contribution in https://github.com/nesquena/hermes-webui/pull/9206\n\n**Full Changelog**: https://github.com/nesquena/hermes-webui/compare/v0.52.735...v0.52.741",
+  "mentions_count": 5
 }
